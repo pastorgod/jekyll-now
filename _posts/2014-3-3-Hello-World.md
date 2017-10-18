@@ -1,8 +1,15 @@
----
-layout: post
-title: You're up and running!
----
+# 尊敬的用户，
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+感谢您安装 **Mado**。 在你第一次启动时，下面是一些信息：
 
+* Mado 可以处理 .md， .markdown 以及 .txt 文件， 能够保存这些文件为 .md （Markdown 文件的官方扩展名）和导出 .html。
+* 你可以点击右下角的字数查看你的文档有多少个字符（*反之亦然*）。 点击眼睛图标可以选择HTML的显示格式。
+* 查看快捷键（右上角按钮，“快捷键”选项）以便更熟练使用Mado。
 
+我希望你会喜欢Mado，
+
+**[Armand Grillet](http://armand.gr/)**
+
+***
+
+P.S. 这个信息不会再次出现。点击导航条上的“新建”开始使用Mado。
