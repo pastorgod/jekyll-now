@@ -1,12 +1,12 @@
-##<center>ios9通用连接<center>
+## <center>ios9通用连接<center>
 ---
-##条件
+## 条件
 - 配置文件   apple-app-site-association
 - 苹果后台   associated domain   设置  enable
 - xcode中   capabilities 中设置 associated domains 增加一条  如 applinks://xx.umygames.com的域名
 
 
-##实现
+## 实现
 - 将apple-app-site-association文件放在xx.umygames.com这个映射根路径后面，
 - 在xx.umygames.com下面建立文件夹.well-known  将配置文件也放在这个下面一份(做兼容)
 - apple-app-site-association中path代表着域名后的路径，比如path中填写  /download.html
